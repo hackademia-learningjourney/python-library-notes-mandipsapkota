@@ -1,0 +1,19 @@
+Library is a bundle of code that have various functionality for a specific task . Smilar to all other programython also have its various libraries. Some popular python libraries used in machine learning are :
+
+## Pandas
+It is a python library for data analytics and data science .Pandas is built on top matplotlib (for data visualization) and NumPy (for maths operations) . Its data structure include DataFrame and series. Series as a single column of data whereas DataFrames store data in the familiar table format of rows and columns. 
+
+## Numpy
+It is a widely used library for mathematical oprations and numeic calculations in python . It has built in support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+
+## Tensorflow 
+It is a python library which allows experts to easily create machine learning models for desktop, mobile, web, and cloud. It is availabl in python and js .It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks.
+
+## Keras 
+Keras is an open-source library that can be used to get a Python interface after building artificial neural networks. It works with JAX, TensorFlow, and PyTorch. Focus on user experience has always been a major part of Keras and it has a Large adoption in the industry.
+
+## sklearn 
+Its also known as scikit-learn . It is a Python tool for machine learning built on top of SciPy . It features various classification, regression and clustering algorithms within it .
+
+## Pytorch
+It is a open source framework for deep learning in python.It can be used with Python as well as a C++. Its well known for its ease while building complex neural netwoks. 
